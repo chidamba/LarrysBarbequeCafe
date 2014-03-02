@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#A0CFEC" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.12"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Dinner Grazing"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="top"
+        android:layout_weight="0.9"
+        android:scrollbarStyle="insideOverlay" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bluebutton"
+                android:clickable="true"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/dinnergrazing1"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bluebutton"
+                android:clickable="true"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/dinnergrazing2"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bluebutton"
+                android:clickable="true"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/dinnergrazing3"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bluebutton"
+                android:clickable="true"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/dinnergrazing4"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

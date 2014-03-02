@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Larry J\'s BBQ Cafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutUsText">We bring the taste of Texas barbeque to Boston! Our mission is to offer an amazing, lip smacking, finger licking and life changing bbq experience. Our motto is "quality, quantity and consistency".  We believe bbq is a great comfort food: quintessential American Favorite.</string>
+    <string name="findUsText">Where to Find Us:\nLARRY J\'S BBQ CAFE\n600 D Street\nSeaport Boston, MA 02210\nTel:617.348.9800\nFax: 617.348.9806</string>
+    
+    <string name="lunchteaser1">RIB TIPS, Slowed smoked finger food $5.95</string>
+    <string name="lunchteaser2">SMOKED AND FRIED, WINGS $8.95</string>
+    <string name="lunchteaser3">FRIED PICKLES, Served with spicy Cajun sauce $5.95</string>
+    <string name="lunchteaser4">BURNT ENDS, Smokey bites of brisket that are pure gold! $6.95</string>
+    
+    <string name="lunchgrazing1">TEXAS WEDGE, Crisp Romaine Lettuce, smokey bacon, diced tomatoes and crumbled blue cheese $7.50</string>
+    <string name="lunchgrazing2">TEXAS CAVIAR, Black-eyed pea salad $2.50</string>
+    <string name="lunchgrazing3">GARDEN SALAD $4.95</string>
+    <string name="lunchgrazing4">CAESAR SALAD $5.50</string>
+           
+    <string name="dinnerteaser1">CRISPY CATFISH NUGGETS, Served with a spicy Cajun sauce $5.95</string>
+    <string name="dinnerteaser2">FIRE BALLS, medley of pepper flavored meatballs served with dipping sauce $5.95</string>
+    <string name="dinnerteaser3">HAWG WINGS, Tender Pork Shanks $6.95</string>
+    <string name="dinnerteaser4">RIB TIPS, Slowed smoked finger food $5.95</string>
+    <string name="dinnerteaser5">SMOKED AND FRIED WINGS, Sauce: Buffalo, BBQ, Chipotle, Habanero $8.95</string>
+    <string name="dinnerteaser6">FRIED PICKLES, Served with spicy Cajun sauce $5.95</string>
+    <string name="dinnerteaser7">BURNT ENDS, Smokey bites of brisket that are pure gold! $6.95</string>
+    
+    <string name="dinnergrazing1">TEXAS WEDGE, Crisp Romaine, smokey bacon, tomatoes and crumbled blue Cheese $7.50</string>
+    <string name="dinnergrazing2">TEXAS CAVIAR, Black-eyed pea salad $2.50</string>
+    <string name="dinnergrazing3">GARDEN SALAD $4.95</string>
+    <string name="dinnergrazing4">CAESAR SALAD $5.50</string>
+
+    <string-array name="dressings_array">
+        <item>Blue Cheese</item>
+        <item>Ranch</item>
+        <item>Caesar</item>
+        <item>Italian</item>
+        <item>No Dressing</item>
+    </string-array>
+
+</resources>
